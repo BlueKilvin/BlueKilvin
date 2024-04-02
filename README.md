@@ -10,6 +10,8 @@
 ### :man_technologist: About Me :
 I like programming. I also like writing. 
 
+Right now, I'm learning Ruby and trying to learn more about AWS and cloud computing in general. 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
