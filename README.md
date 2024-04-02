@@ -5,8 +5,6 @@
   </h1>
 </div>
 
----
-
 ### :man_technologist: About Me :
 I like programming. I also like writing. 
 
@@ -14,12 +12,21 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Technologies I use :
 --=Proficient=--
+
+![Java](https://img.shields.io/badge/-Java-AB2B28?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-00599C?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![HTML](https://img.shields.io/badge/-html-3776AB?style=flat-square&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/-xml-00599C?style=flat-square&logo=xml&logoColor=white)
+![Json](https://img.shields.io/badge/-json-00599C?style=flat-square&logo=json&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-F7DF1E?style=flat-square&logo=mysql&logoColor=black)
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
@@ -57,5 +64,5 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: My Blog Posts :
 
