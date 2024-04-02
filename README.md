@@ -6,9 +6,9 @@
   <a href="https://blukilvin.itch.io">
     <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
   </a>
-  <a href="https://dev.to/msanvari">
+  <!--<a href="https://dev.to/msanvari">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
+  </a>-->
     <a href="https://bluekilvin.github.io">
     <img src="https://img.shields.io/badge/-Blog-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
