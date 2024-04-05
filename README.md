@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/mohammadseifanvari">
+  <a href="https://www.linkedin.com/in/mohammadseifanvari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mseifanvari.itch.io">
+  <a href="https://mseifanvari.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
   </a>
-  <!--<a href="https://dev.to/msanvari">
+  <!--<a href="https://dev.to/msanvari" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>-->
-    <a href="https://bluekilvin.github.io">
+    <a href="https://bluekilvin.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-222222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
