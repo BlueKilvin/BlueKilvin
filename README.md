@@ -27,7 +27,6 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 ---
 
 ### :hammer_and_wrench: Technologies I use :
---=Proficient=--
 
 ![Java](https://img.shields.io/badge/-Java-AB2B28?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,9 +41,8 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
-
---=Have experience with=--
+![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
 
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -57,7 +55,6 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
