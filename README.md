@@ -59,3 +59,9 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### ↗️ My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueKilvin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
