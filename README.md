@@ -52,6 +52,7 @@ Right now, I'm learning Ruby and trying to learn more about AWS and cloud comput
 
 ![ThreeJS](https://img.shields.io/badge/-ThreeJS-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
