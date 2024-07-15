@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I like programming. I also like writing. 
 
-Right now, I'm learning HTMX and trying to learn more about AWS and cloud computing in general. 
+Right now, I'm learning more about cross-platform development with React, Flutter, and .NET MAUI. 
 
 ---
 
